@@ -1,0 +1,25 @@
+{
+  "name": "@intellicon/ui-module",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/prop-types": "^15.7.1",
+    "node-sass": "^4.9.3"
+  },
+  "dependencies": {
+    "@blueprintjs/core": "^3.17.1",
+    "@blueprintjs/icons": "^3.9.1",
+    "@intellicon/ui-components": "1.0.0",
+    "@material-ui/core": "^4.5.2",
+    "@material-ui/icons": "^4.5.1",
+    "axios": "^0.19.0",
+    "lodash": "^4.17.15",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-redux": "^7.1.0",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1",
+    "redux": "^4.0.4"
+  }
+}

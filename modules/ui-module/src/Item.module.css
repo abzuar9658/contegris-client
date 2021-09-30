@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+.containerTicket {
+  height: 100%;
+  width: 100%;
+  background-color: var(--background);
+}

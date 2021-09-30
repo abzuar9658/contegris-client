@@ -1,0 +1,34 @@
+.button-container {
+  text-align: center;
+}
+
+.result-parent-container {
+  margin-top: 1em;
+  padding: 1em;
+  background: #fff;
+  border: 1px solid #eee;
+}
+
+.result-title {
+  font-weight: 500;
+}
+
+.result-parent {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.result-middle-child {
+  flex-grow: 1;
+  margin-left: 20px;
+}
+
+.create-contact-parent-container {
+  margin-top: 1em;
+  padding: 1em;
+  background: #fff;
+  border: 1px solid #eee;
+  text-align: center;
+}

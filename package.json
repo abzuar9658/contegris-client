@@ -1,0 +1,8 @@
+{
+  "name": "@intellicon/cx9-ui",
+  "private": true,
+  "workspaces": [
+    "modules/*",
+    "app"
+  ]
+}
